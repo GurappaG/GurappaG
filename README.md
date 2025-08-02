@@ -29,7 +29,7 @@ A console-based vehicle booking system built using OOP principles and JDBC.
 - Data stored and managed using MySQL  
 - Exception handling and cost calculation implemented  
 
-📂 [Repo Link Coming Soon](#)
+📂 [Repo Link Coming Soon]
 
 ---
 
@@ -50,7 +50,7 @@ Jupyter notebooks with Spark-based data handling
 
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/gurappa-g-438145229)  
-- 📧 Email: your.email@example.com *(replace this with your actual email)*
+- 📧 Email: gurapppagopi@gmail.com
 
 ---
 
