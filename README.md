@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gurappa G
 
-🚀 Aspiring Full Stack Developer | 💻 Java & Web Development Enthusiast  
+🚀 Aspiring Full Stack Developer | 💻 Java & Big Data
 🎯 Focused on building real-world applications with Java, JDBC, MySQL, and frontend technologies.  
 
 ---
